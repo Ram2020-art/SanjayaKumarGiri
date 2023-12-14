@@ -35,3 +35,10 @@ This portfolio provides an overview of Sanjay Kumar Giri, a web developer and BC
    git clone https://github.com/your-username/sanjay-kumar-giri-portfolio.git
 
    
+## Support ☕
+[![Buy Me a Coffee](https://img.shields.io/badge/-☕%20Buy%20Me%20a%20Coffee-orange)](https://www.buymeacoffee.com/ramijar2020)
+[![Ko-fi](https://img.shields.io/badge/-☕%20Ko--fi-brightgreen)](https://ko-fi.com/rammijar)
+
+<div align="center">
+   Show some ❤️ by starring some of the repositories!
+</div>
