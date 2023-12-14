@@ -14,6 +14,10 @@ This is a simple portfolio website for Sanjay Kumar Giri, showcasing his skills,
 
 This portfolio provides an overview of Sanjay Kumar Giri, a web developer and BCA student at Tribhuvan University, currently studying at Nirvana College, Lalitpur, Nepal.
 
+
+<img align="right" alt="GIF" src="https://github.com/Ram2020-art/SanjayaKumarGiri/blob/main/Screenshot_2023_1215_003052.jpg" style="width: 150px; height: auto;" />
+
+
 ## Skills
 
 - HTML5
