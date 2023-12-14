@@ -1,0 +1,71 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* ... (previous code) ... */
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+/* ... (previous code) ... */
+
+/* ... (previous code) ... */
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+img {
+    border-radius: 50%;
+    margin-right: 20px;
+    width: 80px; /* Adjust the width as needed */
+    height: auto;
+}
+
+.header-text {
+    flex-grow: 1;
+}
+
+.header-text h1 {
+    margin: 0;
+}
+
+.header-text p {
+    margin: 0;
+}
+
+/* ... (remaining code) ... */
+
+
+header, section, footer {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+h1, h2, p {
+    color: #333;
+}
+
+section {
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
